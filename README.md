@@ -8,6 +8,7 @@ npm install express http-proxy-middleware pm2
 1. Edit reverseproxyconfig.json to add your microservices/other projects
 
 2. Run your proxy by
-pm2 start app.js
+
+  pm2 start app.js
 
 3. There's no step 3! (™)
